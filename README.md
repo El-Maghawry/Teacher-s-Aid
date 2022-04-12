@@ -4,4 +4,4 @@
 
 I made this program for my language tutors so they could record the new words during the lesson for me to get the pronounciation right. The program makes a new dir of the current day and saves the recordings in there. The recording have the same name as the text input. After the lesson they could simply send me a zip file of the recordings for me to study without being too much of a burden to my teachers.
 
-This was one of my earliest projects
+This was one of my earliest projects. I used Pyinstaller to convert this application to a Windows and Mac app. usually I work with smaller code files but for pyintstaller it was easier to compile it using only one file.
